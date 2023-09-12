@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @powerofcode2023
-- 👀 I’m interested in developper fullstack, machine learning, cybersecurity, games developpmment
+- 👀 I’m interested in developper fullstack, machine learning, cybersecurity, games development
 - 🌱 I’m currently learning shell, C,..
 - 💞️ I’m looking to collaborate on projects to bring my experience !
 - 📫 How to reach me :
