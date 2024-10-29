@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bash,bootstrap,c,css,django,figma,git,github,html,js,jquery,kali,mysql,nodejs,npm,py,react" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,c,css,django,git,github,html,js,jquery,kali,mysql,nodejs,npm,py,react" /><br>
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=powerofcode2023&show_icons=true&theme=merko&locale=en" alt="powerofcode2023" /></p>
